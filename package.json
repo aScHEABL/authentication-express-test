@@ -1,0 +1,8 @@
+{
+  "name": "authentication-express-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:aScHEABL/authentication-express-test.git",
+  "author": "aScHEABL <22256864+aScHEABL@users.noreply.github.com>",
+  "license": "MIT"
+}
